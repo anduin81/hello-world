@@ -1,0 +1,1 @@
+string patternRow = @"(<)(\s)*tr(\s|\w)*(>)(.*?)(<)(\s)*(\/)(\s)*tr(\s)*>";
